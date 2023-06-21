@@ -1,0 +1,41 @@
+name: psychological_consultation
+description: A new Flutter project.
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=2.19.6 <3.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.2
+  persistent_bottom_nav_bar: ^5.0.2
+  flutter_session_manager: ^1.0.3
+  http: ^0.13.1
+  video_player: ^2.6.1
+  flick_video_player: 0.5.0
+  visibility_detector: ^0.4.0+2
+  flutter_file_downloader: ^1.1.2
+  dio: ^5.1.1
+  file_picker: ^5.2.10
+  path: ^1.8.2
+  email_validator: ^2.0.1
+  zego_uikit_prebuilt_call: ^3.1.1
+  zego_uikit_signaling_plugin: ^2.1.8
+  uuid: ^3.0.7
+  rating_dialog: ^2.0.4
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^2.0.0
+
+flutter:
+
+  uses-material-design: true
+  assets:
+    - assets/images/

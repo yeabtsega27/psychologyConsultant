@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "253017218766",
+    "project_id": "psychological-consultation",
+    "storage_bucket": "psychological-consultation.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:253017218766:android:07ef162fe7532c968dba9f",
+        "android_client_info": {
+          "package_name": "com.example.psychological_consultation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "253017218766-61oepsudbsqeij5n11vhn0vc5mkf9lqh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEUWXyjG49QD8lbSsJ7m02d8MXerMYvDw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "253017218766-61oepsudbsqeij5n11vhn0vc5mkf9lqh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
